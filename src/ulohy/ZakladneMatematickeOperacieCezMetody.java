@@ -1,6 +1,6 @@
 package ulohy;
 // TODO Vytvorte metody obdobnym sposobom aj pre odcitanie, nasobenie, delenie a modulo
-public class zakladneMatematickeOperacieCezMetody {
+public class ZakladneMatematickeOperacieCezMetody {
     public static double scitanie(double cislo1, double cislo2) {
         double sucet = cislo1 + cislo2;
         return sucet;
